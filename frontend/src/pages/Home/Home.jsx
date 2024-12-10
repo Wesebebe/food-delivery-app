@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import Header from '../../components/navbar/Header/Header'
+import Header from '../../components/Header/Header'
 
 const Home = () => {
   return (
